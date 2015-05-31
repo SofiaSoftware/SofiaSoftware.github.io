@@ -7,7 +7,7 @@
 
 ## Creator
 
-TeachEasy and LearnEasy wer created by **Sofia Software Solutions**
+TeachEasy and LearnEasy was created by **Sofia Software Solutions**
 
 ## Copyright and License
 
