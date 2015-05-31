@@ -2,8 +2,8 @@
 #container_demo{
 	 text-align: left;
 	 margin: 0;
-	 padding: 0;
-	 margin: 0 auto;
+	 padding: 0px 0px 0px 0px;
+	 margin: 0 0;
 	 font-family: "Trebuchet MS","Myriad Pro",Arial,sans-serif;
 }
 
@@ -34,7 +34,7 @@ a.hiddenanchor{
 }
 /** The wrapper that will contain our two forms **/
 #wrapper{
-	padding: 0px 15% 0px -15%;
+	padding: 0px 0% 0px 0%;
 	right: 0px;
 	min-height: 560px;	
 	margin: auto auto;	
