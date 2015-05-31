@@ -297,7 +297,7 @@ p.change_link{
 	position: absolute;
 	top: 0px;
 	width: 100%;	
-	padding: 18px 3% 60px 3%;
+	padding: 18px 5px 60px 5px;
 	margin: 0 0 35px 0;
 	background: rgb(247, 247, 247);
 	border: 1px solid rgba(147, 184, 189,0.8);
